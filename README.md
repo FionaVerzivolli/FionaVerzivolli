@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello world! 👋
 
 Welcome to my GitHub! I'm **Fiona Verzivolli**, a passionate developer and 2nd year student eager to solve challenging problems and create impactful projects.
 
