@@ -18,8 +18,7 @@ Welcome to my GitHub! I'm **Fiona Verzivolli**, a passionate developer and 2nd y
 - **Other Tools**: Git, Postman, Figma, Google Cloud, Gradle, JUnit, AWS
 
 🚀 **Current Projects**  
-- Developing **BalanceAI**, an assessment tool for literacy and language aimed at elementary and middle school students.  
-- Creating an **interactive campus map** called **EventHiveUofT**, enabling students to explore, navigate UofT's campus, and RSVP to UofT campus events.  
+- Developing **BalanceAI**, an assessment tool for literacy and language aimed at elementary and middle school students.
 
 **Some Cool Stats:**
 
