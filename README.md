@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I'm **Fiona Verzivolli**, a passionate developer and 2nd year student eager to solve challenging problems and create impactful projects.
 - 🔭 I’m currently working as a **Software Developer** at **Dr. Jang's Lab**, developing **BalanceAI**, a literacy and language assessment tool for elementary and middle school students.  
-- 🌱 I’m currently learning **Spring Boot**, **MongoDB**, and diving deeper into **Systems Design**.  
+- 🌱 I’m currently learning **CUDA**, **MongoDB**, and diving deeper into **scientific computing**.  
 - 👯 I’m looking to collaborate on projects related to **systems programming**, **scientific computing**, **open-source tools**, and **educational technology**.  
 - 💬 Ask me about **C++**, **Object Oriented Programming**, **Numerical Methods**, or **competitive programming**—I'm always excited to share insights!  
 - 📫 How to reach me:  
