@@ -3,13 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Fiona+Verzivolli!;I'm+a+Developer!;I+love+coding+and+learning!)](https://git.io/typing-svg)
 
 Welcome to my GitHub! I'm **Fiona Verzivolli**, a passionate developer and 2nd year student eager to solve challenging problems and create impactful projects.
-- 🔭 I’m currently working as a **Software Developer** at **Dr. Jang's Lab**, developing **BalanceAI**, a literacy and language assessment tool for elementary and middle school students.  
-- 🌱 I’m currently learning **CUDA**, **MongoDB**, and diving deeper into **scientific computing**.  
-- 👯 I’m looking to collaborate on projects related to **systems programming**, **scientific computing**, **open-source tools**, and **educational technology**.  
-- 💬 Ask me about **Systems Programming**, **Design Patterns**, **Numerical Methods**, or **Competitive Programming**—I'm always excited to share insights!  
-- 📫 How to reach me:  
+- I’m currently working as a **Software Developer** at **Dr. Jang's Lab**, developing **BalanceAI**, a literacy and language assessment tool for elementary and middle school students.  
+- I’m currently learning **CUDA**, **MongoDB**, and diving deeper into **scientific computing**.  
+- I’m looking to collaborate on projects related to **systems programming**, **scientific computing**, **open-source tools**, and **educational technology**.  
+- Ask me about **Systems Programming**, **Design Patterns**, **Numerical Methods**, or **Competitive Programming**—I'm always excited to share insights!  
+- How to reach me:  
   - **LinkedIn**: [Fiona Verzivolli](https://www.linkedin.com/in/fiona-verzivolli)  
-- 😄 Pronouns: **She/Her**  
+- Pronouns: **She/Her**  
 ---
 
 🔨 **Skills and Tools**  
@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm **Fiona Verzivolli**, a passionate developer and 2nd y
 - **Frameworks**: React.js, Redux, Express.js, Node.js, Firebase, MongoDB, Spring Boot  
 - **Other Tools**: Git, Postman, Figma, Google Cloud, Gradle, JUnit, AWS
 
-🚀 **Current Projects**  
+**Current Projects**  
 - Developing **BalanceAI**, an assessment tool for literacy and language aimed at elementary and middle school students.
 
 **Some Cool Stats:**
