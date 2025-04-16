@@ -1,8 +1,8 @@
 # Hello World! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Fiona+Verzivolli!;I'm+a+Developer!;I+love+coding+and+learning!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Fiona+!;I'm+a+Developer!;I+love+coding+and+learning!)](https://git.io/typing-svg)
 
-Welcome to my GitHub! I'm **Fiona Verzivolli**, a passionate developer and 2nd year student eager to solve challenging problems and create impactful projects.
+Welcome to my GitHub! I'm **Fiona**, a passionate developer and 2nd year student eager to solve challenging problems and create impactful projects.
 - I’m currently working as a **Software Engineer** at **Shopify**, exploring backend technologies and contributing to software that directly affects millions of users.  
 - I’m currently learning **CUDA**, **MongoDB**, and diving deeper into **scientific computing**.  
 - I’m looking to collaborate on projects related to **systems programming**, **scientific computing**, **open-source tools**, and **educational technology**.  
