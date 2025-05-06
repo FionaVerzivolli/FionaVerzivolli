@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Fiona+!;I'm+a+Developer!;I+love+coding+and+learning!)](https://git.io/typing-svg)
 
-Welcome to my GitHub! I'm **Fiona**, a passionate developer and 2nd year student eager to solve challenging problems and create impactful projects.
-- I’m currently working as a **Software Engineer Intern** at **Shopify**, exploring backend technologies and contributing to software that directly affects millions of users.  
+Welcome to my GitHub! I'm **Fiona**, a passionate developer and student eager to solve challenging problems and create impactful projects.
+- I just finished my 2nd year of university and am currently working as a **Software Engineer Intern** at **Shopify**, exploring backend technologies and contributing to software that directly affects millions of users!! 
 - I’m currently learning **CUDA**, **MongoDB**, and diving deeper into **scientific computing**.  
 - I’m looking to collaborate on projects related to **systems programming**, **scientific computing**, **open-source tools**, and **educational technology**.  
 - Ask me about **Systems Programming**, **Design Patterns**, **Numerical Methods**, or **Competitive Programming**—I'm always excited to share insights!  
