@@ -22,3 +22,5 @@ Welcome to my GitHub! I'm **Fiona**, a passionate developer and student eager to
 
 ---
 Let’s connect and collaborate! ✨
+
+![](https://komarev.com/ghpvc/?username=FionaVerzivolli)
