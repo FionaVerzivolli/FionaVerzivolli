@@ -1,6 +1,5 @@
 # Hello World! 👋
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRscWFkdWxpanowaGw0ZG5heXVja3FzcTU4ODgyaWtjN2dsZXd1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dzaUX7CAG0Ihi/giphy.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Fiona+!;I'm+a+Developer!;I+love+coding+and+learning!)](https://git.io/typing-svg)
 
