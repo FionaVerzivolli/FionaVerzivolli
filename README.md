@@ -8,14 +8,7 @@ Welcome to my GitHub! I'm **Fiona**, a passionate developer and student eager to
 - I’m looking to collaborate on projects related to **systems programming**, **infrastructure**, **open-source tools**, and **educational technology**.  
 - How to reach me:  
   - **LinkedIn**: [Fiona Verzivolli](https://www.linkedin.com/in/fiona-verzivolli)  
-- Pronouns: **She/Her**  
 ---
-
-**Some Cool Stats:**
+![](https://komarev.com/ghpvc/?username=FionaVerzivolli)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FionaVerzivolli&layout=compact&theme=radical)
-
----
-Let’s connect and collaborate! ✨
-
-![](https://komarev.com/ghpvc/?username=FionaVerzivolli)
