@@ -11,4 +11,4 @@ Welcome to my GitHub! I'm **Fiona**, a passionate engineer and student eager to 
 ---
 ![](https://komarev.com/ghpvc/?username=FionaVerzivolli)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FionaVerzivolli&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-ebon-theta-90.vercel.app/api/top-langs/?username=FionaVerzivolli&layout=compact&theme=radical)
