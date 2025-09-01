@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRscWFkdWxpanowaGw0ZG5heXVja3FzcTU4ODgyaWtjN2dsZXd1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dzaUX7CAG0Ihi/giphy.gif)
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFnYWY0YW56MGpjNXY2Mm8yZHo1N3R1eW5xN2U4NmN5eHR1OXE4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FZ7QqHoznY49i/giphy.gif)
 
 Welcome to my GitHub! I'm **Fiona**, a passionate engineer and student eager to solve challenging problems and create impactful projects.
 - I'm in my third year of university at the University of Toronto, and this summer I worked as a **Software Engineering Intern** at **Shopify** for the **Shopify Flow** team! There I had the opportunity to explore workflow automation, use various backend technologies, and contribute to software that directly affects a huge userbase!
