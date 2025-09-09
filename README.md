@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm **Fiona**, a passionate engineer and student eager to 
 - I'm in my third year of university at the University of Toronto, and this summer I worked as a **Software Engineering Intern** at **Shopify** for the **Shopify Flow** team! There I had the opportunity to explore workflow automation, use various backend technologies, and contribute to software that directly affects a huge userbase!
 - I’m looking to collaborate on projects related to **systems programming**, **infrastructure**, **open-source tools**, and **educational technology**.  
 - How to reach me:  
-  - **LinkedIn**: [Fiona Verzivolli](https://www.linkedin.com/in/fiona-verzivolli)  
+  - **LinkedIn**: [Fiona Verzivolli](https://www.linkedin.com/in/fiona-v/)  
 ---
 ![](https://komarev.com/ghpvc/?username=FionaVerzivolli)
 
